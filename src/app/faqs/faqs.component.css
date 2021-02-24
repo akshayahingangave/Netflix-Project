@@ -1,0 +1,35 @@
+.faqs{
+    background-color: black;
+    padding-top: 30px;
+    height: auto;
+    width: 100%;
+    border-bottom: 10px solid gray;
+    text-align: center;
+    padding-bottom: 50px;
+}
+h1{
+    color: white;
+}
+.card-header{
+    background-color: darkslategrey;
+    border:1px solid white;
+    border-radius: 0px 0px 0px 0px; 
+}
+#headingOne{
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+}
+.btn{
+    text-align: left;
+    color: white;   
+}
+.card-body{
+    text-align: left;
+    background-color: darkslategrey;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}

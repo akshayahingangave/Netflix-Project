@@ -1,0 +1,19 @@
+.footer{
+    background-color: black;
+    height: auto;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+ul li{
+list-style-type: none;
+}
+ul li a{
+text-decoration: none;
+color: darkslategrey;
+}
+#dropdownMenuButton{
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 0px 0px 0px 0px;
+}
