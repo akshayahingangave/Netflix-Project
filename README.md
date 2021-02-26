@@ -1,27 +1,9 @@
-# Netflix
+# Output :
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![header](https://user-images.githubusercontent.com/79576987/109266764-7b749a00-782e-11eb-891e-c2a4474cb860.PNG)
+![tv section](https://user-images.githubusercontent.com/79576987/109267063-fd64c300-782e-11eb-93a4-c0660ae01ef9.PNG)
+![mobile section](https://user-images.githubusercontent.com/79576987/109267123-14a3b080-782f-11eb-8b99-2fbb4f44cf43.PNG)
+![anywhere section](https://user-images.githubusercontent.com/79576987/109267162-208f7280-782f-11eb-8b83-6b65e279a572.PNG)
+![faqs](https://user-images.githubusercontent.com/79576987/109267201-2f762500-782f-11eb-9155-ad054f84e411.PNG)
+![footer](https://user-images.githubusercontent.com/79576987/109267240-40269b00-782f-11eb-9ec8-4b383caf82d0.PNG)
